@@ -1,5 +1,9 @@
 # 🖼️ AI Image Classifier using CNN
 
+<p align="center">
+  <img src="screenshots/Feature maps.png" width="500">
+</p>
+
 A Convolutional Neural Network (CNN) built with PyTorch to classify **AI-generated** and **real** images using the CIFAKE dataset.
 
 ## 🚀 Features
